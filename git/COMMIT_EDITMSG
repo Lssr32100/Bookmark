@@ -1,0 +1,6 @@
+Add capability to launch the app using an Android emulator
+
+Adds a new workflow to run the app using a Python-based Android emulator.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b54bbd89-fbef-4caa-9e08-bd26d8ab0738
